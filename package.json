@@ -1,0 +1,22 @@
+{
+  "name": "expressjs_logging_middleware",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayyabsiddiqui19/ExpressJS_Logging_MiddleWare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayyabsiddiqui19/ExpressJS_Logging_MiddleWare/issues"
+  },
+  "homepage": "https://github.com/tayyabsiddiqui19/ExpressJS_Logging_MiddleWare#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
